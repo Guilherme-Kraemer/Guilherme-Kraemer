@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, my name is Guilherme, welcome my GitHub 😁
+## I'm a student in Gran Cursos(Curitiba/Pr), now I'm studyng C, HTML, css and Javascript. You can see some works of college, personal projects and studing codes! 😎
+
 
 <!--
 **Guilherme-Kraemer/Guilherme-Kraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
