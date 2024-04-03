@@ -1,4 +1,4 @@
-![](https://github.com/Guilherme-Kraemer/Guilherme-Kraemer/blob/main/Wallpaper.jpeg)
+
 # Hi there, my name is Guilherme, welcome my GitHub 😁
 ## I'm a student in Gran Cursos(Curitiba/Pr), now I'm studyng C, HTML, css and Javascript. You can see some works of college, personal projects and studing codes! 😎
 
