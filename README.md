@@ -19,4 +19,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </p>
 
-<a aling="center" height="40"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Kraemer&layout=donut) </a>
+<a aling="center" height="40"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Kraemer&layout=donut&theme=transparent) </a>
